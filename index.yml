@@ -1,0 +1,16 @@
+id: course1
+title: Course 1
+units:
+  - id: unit1
+    title: Unit 1
+    lessons:
+      - id: lesson1
+        title: Lesson 1
+        lessonParts:
+          - id: part1
+            title: Part 1
+            showTerminal: true
+            showExplorer: true
+            showEditor: true
+            showContent: true
+            content: 'content1'
