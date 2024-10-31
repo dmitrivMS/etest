@@ -1,2 +1,5 @@
 id: unit2
 title: Second unit
+lessons:
+  - lesson1/index.yml
+  
