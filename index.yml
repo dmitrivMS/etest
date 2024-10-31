@@ -3,3 +3,4 @@ title: Course 1
 level: beginner
 units:
   - unit1/index.yml
+  - unit2/index.yml
